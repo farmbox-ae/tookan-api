@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Tookan, JungleWorks / Jonathan Adeline"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "deprecated": false,
+  "description": "This node library is a client to interact with Tookan.",
+  "keywords": [
+    "Tookan",
+    "Delivery Management",
+    "Jungleworks"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "tookan-api",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
